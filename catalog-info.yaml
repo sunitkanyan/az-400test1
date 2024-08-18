@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: az-400test1
+  annotations:
+    github.com/project-slug: sunitkanyan/az-400test1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sunitkanyan
