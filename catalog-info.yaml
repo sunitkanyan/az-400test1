@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: sunitkanyan/az-400test1
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: sunitkanyan
